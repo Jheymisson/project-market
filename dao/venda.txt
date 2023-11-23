@@ -1,0 +1,2 @@
+banana | 5 | Frutas | Jheymis | Marcos | 3 | 23/11/2023
+banana | 5 | Frutas | Jheymis | Marcos | 3 | 23/11/2023
